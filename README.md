@@ -1,4 +1,4 @@
-# C# unity-alternative
+# C# unity alternative
 
 Stride Engine (C#)
 
