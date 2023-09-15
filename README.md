@@ -1,7 +1,7 @@
 # unity-alternative
 
-Stride Engine
+Stride Engine (C#)
 
-Flax Engine 
+Flax Engine (C#/C++)
 
-Godot Engine
+Godot Engine (C#/GDScript)
